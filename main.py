@@ -1,7 +1,3 @@
-import os
-import time
-from math import log, sin
-
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
